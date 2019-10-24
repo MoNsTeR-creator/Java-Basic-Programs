@@ -1,4 +1,4 @@
-
+// Program to implement the interface concept in java
 
 import java.util.Scanner;
 
